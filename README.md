@@ -13,6 +13,6 @@ We do `website` creation or `application` development. We also `build and repair
 Website: **coming soon** 
 
 - Instagram
-  - Samuel Banfi: ((click here)[https://www.instagram.com/samuelbanfi.photographer/])
-  - James Catenazzi: ((click here)[https://www.instagram.com/_.kazy._/])
-  - Techative: ((click here)[https://www.instagram.com/techative_ch/])
+  - Samuel Banfi: ([click here](https://www.instagram.com/samuelbanfi.photographer/))
+  - James Catenazzi: ([click here](https://www.instagram.com/_.kazy._/))
+  - Techative: ([click here](https://www.instagram.com/techative_ch/))
