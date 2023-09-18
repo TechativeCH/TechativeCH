@@ -6,7 +6,7 @@
 
 ## About us
 
-Techative is a reality made up of two young guys. An AFC in computer science and a passion for programming, video editing and photography.
+Techative is a reality made up of two young guys. An AFC in computer science and a passion for programming, video editing and photography. The name comes from the combination of technology and creativity.
 
 ## What we do
 
@@ -14,9 +14,13 @@ We do `website` creation or `application` development. We also `build and repair
 
 ## Where to find us
 
-Website: **coming soon** 
+Website: 
 
 - Instagram
-  - Samuel Banfi: ([click here](https://www.instagram.com/samuelbanfi.photographer/))
-  - James Catenazzi: ([click here](https://www.instagram.com/_.kazy._/))
-  - Techative: ([click here](https://www.instagram.com/techative_ch/))
+  - Samuel Banfi: [click here](https://www.instagram.com/samuelbanfi.photographer/)
+  - James Catenazzi: [click here](https://www.instagram.com/_.kazy._/)
+  - Techative: [click here](https://www.instagram.com/techative_ch/)
+
+- YouTube
+  - Samuel Banfi: [click here](https://www.youtube.com/channel/UCpwOGJc0Q0nN6X0U706X30A)
+  - James Catenazzi: [click here](https://www.youtube.com/@chazy..)
