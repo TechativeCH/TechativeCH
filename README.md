@@ -1,5 +1,7 @@
 ## Techative
 
+![techative_logo](./images/techative_definitive.png)
+
 ## About us
 
 Techative is a reality made up of two young guys. An AFC in computer science and a passion for programming, video editing and photography.
