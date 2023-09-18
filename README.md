@@ -1,6 +1,8 @@
-## Techative
+<p align="center">
+  <img src="./images/techative_definitive.png" alt="techative_logo" style="width:300px">
+</>
 
-![techative_logo](./images/techative_definitive.png)
+## Techative
 
 ## About us
 
